@@ -1,0 +1,5 @@
+rainfall,forecast_rainfall,soil_saturation,river_level,slope,upstream_flow,river_distance,elevation,flood_risk
+82,90,75,70,45,68,1.2,900,1
+35,40,30,28,30,25,5.1,1300,0
+95,98,92,90,52,94,0.8,780,1
+55,68,60,48,60,45,2.8,1100,0
